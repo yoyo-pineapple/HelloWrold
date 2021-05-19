@@ -6,6 +6,7 @@ public class HelloGit {
         System.out.println("Hello SpriderMan");
         System.out.println("Set up Branches");
         System.out.println("master Branches");
-        System.out.println("branches");
+        System.out.println("branche1221s");
+        System.out.println("branche1221s");
     }
 }
